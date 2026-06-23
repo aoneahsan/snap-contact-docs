@@ -1,0 +1,19 @@
+# SnapContact — Security Contact (RFC 9116)
+# https://snap-contact-docs.aoneahsan.com/.well-known/security.txt
+
+Contact: mailto:aoneahsan@gmail.com
+Contact: https://aoneahsan.com
+Expires: 2027-06-23T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://snap-contact-docs.aoneahsan.com/.well-known/security.txt
+
+# Responsible disclosure
+#
+# Please report any security issue affecting SnapContact or this docs site
+# via email to aoneahsan@gmail.com. Include a description of the issue, the
+# affected component (web app / Android app / browser extension / docs site),
+# steps to reproduce, the impact you assess, and your contact details.
+#
+# Initial response target: within 72 hours.
+# Out of scope: denial-of-service, social engineering, physical-access
+# attacks, and findings that depend on a jailbroken / rooted device.

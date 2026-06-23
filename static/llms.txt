@@ -1,0 +1,48 @@
+# SnapContact — Documentation Index
+
+> SnapContact is a contact intelligence and lead-capture app for Android and the web. It turns chats and business cards into saved contacts, organizes them with tags, notes, lists and spaces, and keeps you on top of follow-ups with reminders. The app lives at https://snapcontact.aoneahsan.com and on Google Play (`com.aoneahsan.snapcontact`). Author: Ahsan Mahmood (https://aoneahsan.com).
+
+## About
+
+SnapContact captures contacts three ways: a camera-based business-card scanner with on-device OCR (Tesseract.js — the image is processed in your browser and never uploaded unless you choose to attach it), a Chrome/Edge browser extension that saves unknown numbers from WhatsApp Web, and structured imports from Google, Excel/CSV, and vCard. Captured contacts are organized with tags, notes, lists, smart segments, and a per-contact timeline, and surfaced through fuzzy search. Reminders with priority levels and Today/Upcoming/Overdue views drive follow-up discipline, and "mini-spaces" group contacts, posts, and files around a client or project. SnapContact stores your data in Google Cloud Firestore under your own account, encrypted in transit and at rest. It does not request location, microphone, device-contacts, SMS, or calendar permissions in v1.1.
+
+This `llms.txt` follows the [llmstxt.org](https://llmstxt.org) spec — a structured index for large language models.
+
+## Getting Started
+
+- [Introduction](https://snap-contact-docs.aoneahsan.com/intro): What SnapContact is, who it's for, and the four things it does.
+- [Installation](https://snap-contact-docs.aoneahsan.com/getting-started/installation): Use it on the web, install the Android app, and add the browser extension.
+- [Account & sign-in](https://snap-contact-docs.aoneahsan.com/getting-started/account-and-sign-in): Email/password and Google sign-in, and what syncs.
+- [Quick Start](https://snap-contact-docs.aoneahsan.com/getting-started/quick-start): Save your first contact and set your first reminder in five minutes.
+
+## Features
+
+- [Contacts](https://snap-contact-docs.aoneahsan.com/features/contacts): Fields, tags, notes, lists, timeline, and fuzzy search.
+- [Business-card scanner](https://snap-contact-docs.aoneahsan.com/features/business-card-scanner): On-device OCR, camera vs gallery, field review, privacy posture.
+- [Spaces](https://snap-contact-docs.aoneahsan.com/features/spaces): Shared mini-spaces for clients and projects.
+- [Reminders](https://snap-contact-docs.aoneahsan.com/features/reminders): Priority levels, templates, Today/Upcoming/Overdue, notifications.
+- [Tools: import, export & cleanup](https://snap-contact-docs.aoneahsan.com/features/tools-import-export): Imports, exports, backups, validators, duplicate detection.
+- [Insights & analytics](https://snap-contact-docs.aoneahsan.com/features/insights-analytics): Growth, segments, tag and source analytics over your own list.
+- [Messaging & campaigns](https://snap-contact-docs.aoneahsan.com/features/messaging-campaigns): Bring-your-own-key email/SMS, with honest fallbacks.
+- [WhatsApp Web extension](https://snap-contact-docs.aoneahsan.com/features/whatsapp-extension): One-click and bulk lead capture from chats.
+
+## Guides
+
+- [Scan a business card](https://snap-contact-docs.aoneahsan.com/guides/scan-a-business-card)
+- [Capture leads from WhatsApp Web](https://snap-contact-docs.aoneahsan.com/guides/capture-leads-from-whatsapp)
+- [Import your existing contacts](https://snap-contact-docs.aoneahsan.com/guides/import-existing-contacts)
+- [Set up follow-up reminders](https://snap-contact-docs.aoneahsan.com/guides/set-up-follow-up-reminders)
+
+## Privacy & Data
+
+- [Data & privacy](https://snap-contact-docs.aoneahsan.com/privacy/data-and-privacy): What is collected, where it is stored, what is never collected.
+- [Permissions](https://snap-contact-docs.aoneahsan.com/privacy/permissions): Why camera and notifications are requested, and the non-permission fallback for each.
+- [Account & data deletion](https://snap-contact-docs.aoneahsan.com/privacy/account-deletion): Export and delete your data.
+
+## About the project
+
+- [About the Author](https://snap-contact-docs.aoneahsan.com/about-the-author): Ahsan Mahmood's developer profile, links, contact.
+- App: https://snapcontact.aoneahsan.com
+- Google Play: https://play.google.com/store/apps/details?id=com.aoneahsan.snapcontact
+- Privacy policy: https://snapcontact.aoneahsan.com/privacy
+- License (docs): MIT

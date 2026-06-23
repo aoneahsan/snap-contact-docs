@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "snap-contact-docs"
+  },
+  "targets": {
+    "snap-contact-docs": {
+      "hosting": {
+        "snap-contact-docs": [
+          "snap-contact-docs"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

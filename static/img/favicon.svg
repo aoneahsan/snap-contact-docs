@@ -1,0 +1,7 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SnapContact favicon">
+  <rect width="32" height="32" rx="8" fill="#3B82F6"/>
+  <circle cx="16" cy="11" r="6" fill="white"/>
+  <path d="M5 26C5 20.4772 9.47715 16 15 16H17C22.5228 16 27 20.4772 27 26V28H5V26Z" fill="white"/>
+  <circle cx="24" cy="8" r="5" fill="#22C55E"/>
+  <path d="M21 8L23 10L27 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
