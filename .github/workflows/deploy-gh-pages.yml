@@ -2,7 +2,7 @@ name: Deploy docs to GitHub Pages
 
 # Dual hosting: this site also deploys to Firebase Hosting (site `snap-contact-docs`)
 # via `yarn firebase:deploy`. GitHub Pages serves the same build at the custom
-# domain in static/CNAME (snap-contact-docs.aoneahsan.com).
+# domain in static/CNAME (snapcontact-docs.aoneahsan.com).
 
 on:
   push:

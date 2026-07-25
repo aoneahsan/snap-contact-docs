@@ -10,38 +10,38 @@ This `llms.txt` follows the [llmstxt.org](https://llmstxt.org) spec — a struct
 
 ## Getting Started
 
-- [Introduction](https://snap-contact-docs.aoneahsan.com/intro): What SnapContact is, who it's for, and the four things it does.
-- [Installation](https://snap-contact-docs.aoneahsan.com/getting-started/installation): Use it on the web, install the Android app, and add the browser extension.
-- [Account & sign-in](https://snap-contact-docs.aoneahsan.com/getting-started/account-and-sign-in): Email/password and Google sign-in, and what syncs.
-- [Quick Start](https://snap-contact-docs.aoneahsan.com/getting-started/quick-start): Save your first contact and set your first reminder in five minutes.
+- [Introduction](https://snapcontact-docs.aoneahsan.com/intro): What SnapContact is, who it's for, and the four things it does.
+- [Installation](https://snapcontact-docs.aoneahsan.com/getting-started/installation): Use it on the web, install the Android app, and add the browser extension.
+- [Account & sign-in](https://snapcontact-docs.aoneahsan.com/getting-started/account-and-sign-in): Email/password and Google sign-in, and what syncs.
+- [Quick Start](https://snapcontact-docs.aoneahsan.com/getting-started/quick-start): Save your first contact and set your first reminder in five minutes.
 
 ## Features
 
-- [Contacts](https://snap-contact-docs.aoneahsan.com/features/contacts): Fields, tags, notes, lists, timeline, and fuzzy search.
-- [Business-card scanner](https://snap-contact-docs.aoneahsan.com/features/business-card-scanner): On-device OCR, camera vs gallery, field review, privacy posture.
-- [Spaces](https://snap-contact-docs.aoneahsan.com/features/spaces): Shared mini-spaces for clients and projects.
-- [Reminders](https://snap-contact-docs.aoneahsan.com/features/reminders): Priority levels, templates, Today/Upcoming/Overdue, notifications.
-- [Tools: import, export & cleanup](https://snap-contact-docs.aoneahsan.com/features/tools-import-export): Imports, exports, backups, validators, duplicate detection.
-- [Insights & analytics](https://snap-contact-docs.aoneahsan.com/features/insights-analytics): Growth, segments, tag and source analytics over your own list.
-- [Messaging & campaigns](https://snap-contact-docs.aoneahsan.com/features/messaging-campaigns): Bring-your-own-key email/SMS, with honest fallbacks.
-- [WhatsApp Web extension](https://snap-contact-docs.aoneahsan.com/features/whatsapp-extension): One-click and bulk lead capture from chats.
+- [Contacts](https://snapcontact-docs.aoneahsan.com/features/contacts): Fields, tags, notes, lists, timeline, and fuzzy search.
+- [Business-card scanner](https://snapcontact-docs.aoneahsan.com/features/business-card-scanner): On-device OCR, camera vs gallery, field review, privacy posture.
+- [Spaces](https://snapcontact-docs.aoneahsan.com/features/spaces): Shared mini-spaces for clients and projects.
+- [Reminders](https://snapcontact-docs.aoneahsan.com/features/reminders): Priority levels, templates, Today/Upcoming/Overdue, notifications.
+- [Tools: import, export & cleanup](https://snapcontact-docs.aoneahsan.com/features/tools-import-export): Imports, exports, backups, validators, duplicate detection.
+- [Insights & analytics](https://snapcontact-docs.aoneahsan.com/features/insights-analytics): Growth, segments, tag and source analytics over your own list.
+- [Messaging & campaigns](https://snapcontact-docs.aoneahsan.com/features/messaging-campaigns): Bring-your-own-key email/SMS, with honest fallbacks.
+- [WhatsApp Web extension](https://snapcontact-docs.aoneahsan.com/features/whatsapp-extension): One-click and bulk lead capture from chats.
 
 ## Guides
 
-- [Scan a business card](https://snap-contact-docs.aoneahsan.com/guides/scan-a-business-card)
-- [Capture leads from WhatsApp Web](https://snap-contact-docs.aoneahsan.com/guides/capture-leads-from-whatsapp)
-- [Import your existing contacts](https://snap-contact-docs.aoneahsan.com/guides/import-existing-contacts)
-- [Set up follow-up reminders](https://snap-contact-docs.aoneahsan.com/guides/set-up-follow-up-reminders)
+- [Scan a business card](https://snapcontact-docs.aoneahsan.com/guides/scan-a-business-card)
+- [Capture leads from WhatsApp Web](https://snapcontact-docs.aoneahsan.com/guides/capture-leads-from-whatsapp)
+- [Import your existing contacts](https://snapcontact-docs.aoneahsan.com/guides/import-existing-contacts)
+- [Set up follow-up reminders](https://snapcontact-docs.aoneahsan.com/guides/set-up-follow-up-reminders)
 
 ## Privacy & Data
 
-- [Data & privacy](https://snap-contact-docs.aoneahsan.com/privacy/data-and-privacy): What is collected, where it is stored, what is never collected.
-- [Permissions](https://snap-contact-docs.aoneahsan.com/privacy/permissions): Why camera and notifications are requested, and the non-permission fallback for each.
-- [Account & data deletion](https://snap-contact-docs.aoneahsan.com/privacy/account-deletion): Export and delete your data.
+- [Data & privacy](https://snapcontact-docs.aoneahsan.com/privacy/data-and-privacy): What is collected, where it is stored, what is never collected.
+- [Permissions](https://snapcontact-docs.aoneahsan.com/privacy/permissions): Why camera and notifications are requested, and the non-permission fallback for each.
+- [Account & data deletion](https://snapcontact-docs.aoneahsan.com/privacy/account-deletion): Export and delete your data.
 
 ## About the project
 
-- [About the Author](https://snap-contact-docs.aoneahsan.com/about-the-author): Ahsan Mahmood's developer profile, links, contact.
+- [About the Author](https://snapcontact-docs.aoneahsan.com/about-the-author): Ahsan Mahmood's developer profile, links, contact.
 - App: https://snapcontact.aoneahsan.com
 - Google Play: https://play.google.com/store/apps/details?id=com.aoneahsan.snapcontact
 - Privacy policy: https://snapcontact.aoneahsan.com/privacy

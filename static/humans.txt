@@ -15,7 +15,7 @@ Google Play: https://play.google.com/store/apps/details?id=com.aoneahsan.snapcon
 
 /* SITE */
 
-Last update: 2026-06-23
+Last update: 2026-07-25
 Standards: HTML5, CSS3, Markdown, JSON-LD
 Components: Docusaurus 3, React 19, TypeScript 6
 Hosting: Firebase Hosting + GitHub Pages

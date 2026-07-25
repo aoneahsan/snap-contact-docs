@@ -15,7 +15,7 @@ Finish the real task fast + correctly FIRST; docs/trackers/sync are a footnote (
 | Package manager | yarn (NEVER npm/pnpm) |
 | Node | >=18 |
 | Author | Ahsan Mahmood ([aoneahsan@gmail.com](mailto:aoneahsan@gmail.com)) |
-| Live URL | https://snap-contact-docs.aoneahsan.com (Firebase Hosting site `snap-contact-docs` + GitHub Pages) |
+| Live URL | https://snapcontact-docs.aoneahsan.com (Firebase Hosting site `snap-contact-docs` + GitHub Pages) |
 | Documents the app at | https://snapcontact.aoneahsan.com (private app repo `github.com/aoneahsan/snapcontact`) |
 | Google Play | https://play.google.com/store/apps/details?id=com.aoneahsan.snapcontact |
 | Content tracker | `snapcontact` app repo → `docs/tracking/snap-contact-docs-content-tracker.json` |
@@ -50,7 +50,7 @@ Gitignore Last Verified: 2026-06-24
 
 ## Last Updated
 
-2026-06-23
+2026-07-25
 
 
 ## Sub-agents & Skills — Main-Context-First (IRON-SOLID)

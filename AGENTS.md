@@ -10,7 +10,7 @@ Finish the real task fast + correctly FIRST; docs/trackers/sync are a footnote (
 
 - Docusaurus 3 docs site for **SnapContact** (https://snapcontact.aoneahsan.com; Play `com.aoneahsan.snapcontact`).
 - PUBLIC repo (`github.com/aoneahsan/snap-contact-docs`), yarn only, Node >=18.
-- Live URL: https://snap-contact-docs.aoneahsan.com (Firebase Hosting `snap-contact-docs` + GitHub Pages).
+- Live URL: https://snapcontact-docs.aoneahsan.com (Firebase Hosting `snap-contact-docs` + GitHub Pages).
 - Dual hosting: `firebase.json` + `.firebaserc` (target `snap-contact-docs`) and `.github/workflows/deploy-gh-pages.yml` + `static/CNAME`.
 - Build gates: `yarn typecheck` exit 0 · `yarn build` exit 0. Agent NEVER runs the dev server.
 - Honest framing: document only real app features; match the app's privacy policy (no device-contacts/location/mic/SMS in v1.1, on-device OCR, bring-your-own-key messaging).
@@ -30,7 +30,7 @@ Gitignore Last Verified: 2026-06-24
 
 ## Last Updated
 
-2026-06-23
+2026-07-25
 
 
 ## Sub-agents & Skills — Main-Context-First (IRON-SOLID)

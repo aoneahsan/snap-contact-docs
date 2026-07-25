@@ -8,7 +8,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // App: https://snapcontact.aoneahsan.com
 // ---------------------------------------------------------------------------
 
-const SITE_URL = 'https://snap-contact-docs.aoneahsan.com';
+const SITE_URL = 'https://snapcontact-docs.aoneahsan.com';
 const APP_URL = 'https://snapcontact.aoneahsan.com';
 const PLAY_URL =
   'https://play.google.com/store/apps/details?id=com.aoneahsan.snapcontact';
@@ -19,7 +19,7 @@ const config: Config = {
   favicon: 'img/favicon.svg',
 
   // Production URL — served from Firebase Hosting site `snap-contact-docs`
-  // and mirrored to GitHub Pages at snap-contact-docs.aoneahsan.com.
+  // and mirrored to GitHub Pages at snapcontact-docs.aoneahsan.com.
   url: SITE_URL,
   baseUrl: '/',
 

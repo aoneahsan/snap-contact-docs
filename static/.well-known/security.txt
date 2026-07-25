@@ -1,11 +1,11 @@
 # SnapContact — Security Contact (RFC 9116)
-# https://snap-contact-docs.aoneahsan.com/.well-known/security.txt
+# https://snapcontact-docs.aoneahsan.com/.well-known/security.txt
 
 Contact: mailto:aoneahsan@gmail.com
 Contact: https://aoneahsan.com
 Expires: 2027-06-23T00:00:00.000Z
 Preferred-Languages: en
-Canonical: https://snap-contact-docs.aoneahsan.com/.well-known/security.txt
+Canonical: https://snapcontact-docs.aoneahsan.com/.well-known/security.txt
 
 # Responsible disclosure
 #

@@ -1,8 +1,8 @@
 # SnapContact Docs — robots.txt
 # Maintained by Ahsan Mahmood (https://aoneahsan.com)
-# Last updated: 2026-06-23
+# Last updated: 2026-07-25
 #
-# Public crawl policy for https://snap-contact-docs.aoneahsan.com.
+# Public crawl policy for https://snapcontact-docs.aoneahsan.com.
 # Every reputable search-engine and AI bot is allowed; low-value scraper
 # bots are blocked. The Sitemap directive lets crawlers discover the URL space.
 
@@ -120,4 +120,4 @@ Allow: /
 
 # --- Sitemap discovery ------------------------------------------------------
 
-Sitemap: https://snap-contact-docs.aoneahsan.com/sitemap.xml
+Sitemap: https://snapcontact-docs.aoneahsan.com/sitemap.xml

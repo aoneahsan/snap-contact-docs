@@ -4,7 +4,7 @@ Public documentation site for **SnapContact** — a contact intelligence and lea
 
 - **App:** https://snapcontact.aoneahsan.com
 - **Google Play:** https://play.google.com/store/apps/details?id=com.aoneahsan.snapcontact
-- **Docs (this site):** https://snap-contact-docs.aoneahsan.com
+- **Docs (this site):** https://snapcontact-docs.aoneahsan.com
 - **Source app repo:** private (`github.com/aoneahsan/snapcontact`)
 
 Built with [Docusaurus 3](https://docusaurus.io/). MIT-licensed. Maintained by [Ahsan Mahmood](https://aoneahsan.com).
@@ -29,7 +29,7 @@ The same `./build` output is served two ways:
    ```bash
    yarn firebase:deploy
    ```
-2. **GitHub Pages** — via `.github/workflows/deploy-gh-pages.yml` on push to `main`, at the custom domain in `static/CNAME` (`snap-contact-docs.aoneahsan.com`).
+2. **GitHub Pages** — via `.github/workflows/deploy-gh-pages.yml` on push to `main`, at the custom domain in `static/CNAME` (`snapcontact-docs.aoneahsan.com`).
 
 ## Structure
 
