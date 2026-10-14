@@ -21,15 +21,16 @@ yarn typecheck       # tsc --noEmit
 yarn serve           # preview the built site on :5963
 ```
 
-## Deployment (dual hosting)
+## Deployment
 
-The same `./build` output is served two ways:
+GitHub Pages builds and serves the site after a push to `main` through
+`.github/workflows/deploy-pages.yml`. `static/CNAME` pins the custom domain
+`snapcontact-docs.aoneahsan.com`. The 2026-10-14 local immutable install, typecheck,
+build and controlled Chrome desktop/mobile render passed. Check the Pages run and live
+domain after each push.
 
-1. **Firebase Hosting** — site `snap-contact-docs`:
-   ```bash
-   yarn firebase:deploy
-   ```
-2. **GitHub Pages** — via `.github/workflows/deploy-gh-pages.yml` on push to `main`, at the custom domain in `static/CNAME` (`snapcontact-docs.aoneahsan.com`).
+The separate private product repository uses the older Firebase backend. This public docs site
+does not deploy to Firebase.
 
 ## Structure
 
@@ -40,7 +41,7 @@ src/pages/index.tsx   Landing page
 static/               robots.txt, llms.txt, humans.txt, security.txt, CNAME, brand SVGs
 docusaurus.config.ts  Site config + JSON-LD (WebSite, Organization, SoftwareApplication)
 sidebars.ts           Manual sidebar
-firebase.json         Firebase Hosting config
+.github/workflows/    GitHub Pages deployment
 ```
 
 ## Honesty rule
